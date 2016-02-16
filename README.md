@@ -2,7 +2,7 @@
 
 Love Parse but hate that it gets everywhere? That's why I wrote Parsley:herb:. It works much the way [Mantle](https://github.com/Mantle/Mantle) does.
 
-You could also check out [lazerwalker's](https://github.com/lazerwalker) [MTLParseAdapter](https://github.com/lazerwalker/MTLParseAdapter): https://github.com/lazerwalker/MTLParseAdapter.
+You could also check out [lazerwalker's](https://github.com/lazerwalker) [MTLParseAdapter](https://github.com/lazerwalker/MTLParseAdapter). 
 
 How to use :herb::
 
